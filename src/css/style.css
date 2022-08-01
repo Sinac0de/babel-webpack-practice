@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+
+#value {
+    font-size: 6rem;
+    font-weight: bold;
+}
+
+.btn {
+    text-transform: uppercase;
+    background-color: transparent;
+    border-radius: 10px;
+    color: #444;
+    padding: 1em;
+    display: inline-block;
+    transition: all 0.5s;
+    font-size: 0.8rem;
+    border: 3px solid #444;
+    margin: 1em;
+    cursor: pointer;
+}
